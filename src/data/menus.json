@@ -1,1 +1,16 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "One",
+      "title": "This if the first",
+      "url": "/one",
+      "weight": 1
+    },
+    {
+      "identifier": "Two",
+      "title": "This is the second",
+      "url": "/two",
+      "weight": 2
+    }
+  ]
+}
