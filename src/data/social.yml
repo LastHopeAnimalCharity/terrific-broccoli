@@ -5,15 +5,15 @@ social_content: >-
   facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-twitter
+    link_url: twitter.com/lasthope
+    title: Twitter
+  - icon: fa-instagram
     link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
+    title: Instagram
+  - icon: fa-snapchat-ghost
     link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+    title: Snapchat
+  - icon: fa-instagram-ghost
+    link_url: instagram.com/lasthopeanimalcharityirl
+    title: Instagram
