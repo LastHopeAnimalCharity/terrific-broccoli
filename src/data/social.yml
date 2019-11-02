@@ -6,14 +6,11 @@ social_content: >-
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 social_links:
   - icon: fa-twitter
-    link_url: twitter.com/lasthope
+    link_url: 'http://twitter.com/lasthopeanimalcharity'
     title: Twitter
   - icon: fa-instagram
-    link_url: '#'
+    link_url: 'https://instagram.com/lasthopeanimalcharityirl'
     title: Instagram
-  - icon: fa-snapchat-ghost
-    link_url: '#'
-    title: Snapchat
-  - icon: fa-instagram-ghost
-    link_url: instagram.com/lasthopeanimalcharityirl
-    title: Instagram
+  - icon: fa-facebook
+    link_url: 'https://facebook.com/lasthopecharity'
+    title: Facebook
